@@ -1,0 +1,111 @@
+Provincia;Regione;Codice;Area_4;Area_5
+Agrigento;Sicilia;AG;Sud e Isole;Isole
+Alessandria;Piemonte;AL;Nord Ovest;Nord Ovest
+Ancona;Marche;AN;Centro;Centro
+Aosta;Valle d'Aosta;AO;Nord Ovest;Nord Ovest
+Arezzo;Toscana;AR;Centro;Centro
+Ascoli Piceno;Marche;AP;Centro;Centro
+Asti;Piemonte;AT;Nord Ovest;Nord Ovest
+Avellino;Campania;AV;Sud e Isole;Sud
+Bari;Puglia;BA;Sud e Isole;Sud
+Barletta-Andria-Trani;Puglia;BT;Sud e Isole;Sud
+Belluno;Veneto;BL;Nord Est;Nord Est
+Benevento;Campania;BN;Sud e Isole;Sud
+Bergamo;Lombardia;BG;Nord Ovest;Nord Ovest
+Biella;Piemonte;BI;Nord Ovest;Nord Ovest
+Bologna;Emilia-Romagna;BO;Nord Est;Nord Est
+Bolzano;Trentino-Alto Adige;BZ;Nord Est;Nord Est
+Brescia;Lombardia;BS;Nord Ovest;Nord Ovest
+Brindisi;Puglia;BR;Sud e Isole;Sud
+Cagliari;Sardegna;CA;Sud e Isole;Isole
+Caltanissetta;Sicilia;CL;Sud e Isole;Isole
+Campobasso;Molise;CB;Sud e Isole;Sud
+Carbonia-Iglesias;Sardegna;CI;Sud e Isole;Isole
+Caserta;Campania;CE;Sud e Isole;Sud
+Catania;Sicilia;CT;Sud e Isole;Isole
+Catanzaro;Calabria;CZ;Sud e Isole;Sud
+Chieti;Abruzzo;CH;Sud e Isole;Sud
+Como;Lombardia;CO;Nord Ovest;Nord Ovest
+Cosenza;Calabria;CS;Sud e Isole;Sud
+Cremona;Lombardia;CR;Nord Ovest;Nord Ovest
+Crotone;Calabria;KR;Sud e Isole;Sud
+Cuneo;Piemonte;CN;Nord Ovest;Nord Ovest
+Enna;Sicilia;EN;Sud e Isole;Isole
+Fermo;Marche;FM;Centro;Centro
+Ferrara;Emilia-Romagna;FE;Nord Est;Nord Est
+Firenze;Toscana;FI;Centro;Centro
+Foggia;Puglia;FG;Sud e Isole;Sud
+Forlì-Cesena;Emilia-Romagna;FC;Nord Est;Nord Est
+Frosinone;Lazio;FR;Centro;Centro
+Genova;Liguria;GE;Nord Ovest;Nord Ovest
+Gorizia;Friuli-Venezia Giulia;GO;Nord Est;Nord Est
+Grosseto;Toscana;GR;Centro;Centro
+Imperia;Liguria;IM;Nord Ovest;Nord Ovest
+Isernia;Molise;IS;Sud e Isole;Sud
+La Spezia;Liguria;SP;Nord Ovest;Nord Ovest
+L'Aquila;Abruzzo;AQ;Sud e Isole;Sud
+Latina;Lazio;LT;Centro;Centro
+Lecce;Puglia;LE;Sud e Isole;Sud
+Lecco;Lombardia;LC;Nord Ovest;Nord Ovest
+Livorno;Toscana;LI;Centro;Centro
+Lodi;Lombardia;LO;Nord Ovest;Nord Ovest
+Lucca;Toscana;LU;Centro;Centro
+Macerata;Marche;MC;Centro;Centro
+Mantova;Lombardia;MN;Nord Ovest;Nord Ovest
+Massa-Carrara;Toscana;MS;Centro;Centro
+Matera;Basilicata;MT;Sud e Isole;Sud
+Messina;Sicilia;ME;Sud e Isole;Isole
+Milano;Lombardia;MI;Nord Ovest;Nord Ovest
+Modena;Emilia-Romagna;MO;Nord Est;Nord Est
+Monza e della Brianza;Lombardia;MB;Nord Ovest;Nord Ovest
+Napoli;Campania;NA;Sud e Isole;Sud
+Novara;Piemonte;NO;Nord Ovest;Nord Ovest
+Nuoro;Sardegna;NU;Sud e Isole;Isole
+Olbia-Tempio;Sardegna;OT;Sud e Isole;Isole
+Oristano;Sardegna;OR;Sud e Isole;Isole
+Padova;Veneto;PD;Nord Est;Nord Est
+Palermo;Sicilia;PA;Sud e Isole;Isole
+Parma;Emilia-Romagna;PR;Nord Est;Nord Est
+Pavia;Lombardia;PV;Nord Ovest;Nord Ovest
+Perugia;Umbria;PG;Centro;Centro
+Pesaro e Urbino;Marche;PU;Centro;Centro
+Pescara;Abruzzo;PE;Sud e Isole;Sud
+Piacenza;Emilia-Romagna;PC;Nord Est;Nord Est
+Pisa;Toscana;PI;Centro;Centro
+Pistoia;Toscana;PT;Centro;Centro
+Pordenone;Friuli-Venezia Giulia;PN;Nord Est;Nord Est
+Potenza;Basilicata;PZ;Sud e Isole;Sud
+Prato;Toscana;PO;Centro;Centro
+Ragusa;Sicilia;RG;Sud e Isole;Isole
+Ravenna;Emilia-Romagna;RA;Nord Est;Nord Est
+Reggio Calabria;Calabria;RC;Sud e Isole;Sud
+Reggio Emilia;Emilia-Romagna;RE;Nord Est;Nord Est
+Rieti;Lazio;RI;Centro;Centro
+Rimini;Emilia-Romagna;RN;Nord Est;Nord Est
+Roma;Lazio;RM;Centro;Centro
+Rovigo;Veneto;RO;Nord Est;Nord Est
+Salerno;Campania;SA;Sud e Isole;Sud
+Medio Campidano;Sardegna;VS;Sud e Isole;Isole
+Sassari;Sardegna;SS;Sud e Isole;Isole
+Savona;Liguria;SV;Nord Ovest;Nord Ovest
+Siena;Toscana;SI;Centro;Centro
+Siracusa;Sicilia;SR;Sud e Isole;Isole
+Sondrio;Lombardia;SO;Nord Ovest;Nord Ovest
+Taranto;Puglia;TA;Sud e Isole;Sud
+Teramo;Abruzzo;TE;Sud e Isole;Sud
+Terni;Umbria;TR;Centro;Centro
+Torino;Piemonte;TO;Nord Ovest;Nord Ovest
+Ogliastra;Sardegna;OG;Sud e Isole;Isole
+Trapani;Sicilia;TP;Sud e Isole;Isole
+Trento;Trentino-Alto Adige;TN;Nord Est;Nord Est
+Treviso;Veneto;TV;Nord Est;Nord Est
+Trieste;Friuli-Venezia Giulia;TS;Nord Est;Nord Est
+Udine;Friuli-Venezia Giulia;UD;Nord Est;Nord Est
+Varese;Lombardia;VA;Nord Ovest;Nord Ovest
+Venezia;Veneto;VE;Nord Est;Nord Est
+Verbano-Cusio-Ossola;Piemonte;VB;Nord Ovest;Nord Ovest
+Vercelli;Piemonte;VC;Nord Ovest;Nord Ovest
+Verona;Veneto;VR;Nord Est;Nord Est
+Vibo Valentia;Calabria;VV;Sud e Isole;Sud
+Vicenza;Veneto;VI;Nord Est;Nord Est
+Viterbo;Lazio;VT;Centro;Centro
